@@ -118,7 +118,8 @@ nav .navbar-nav .nav-link:hover {
 
 .logo {
   width: 30rem;
-  min-height: 15rem;
+  /* min-height: 15rem; */
+  padding: 1rem 0;
   max-height: 30rem;
   object-fit: contain;
   /* filter: drop-shadow(0 0 1rem rgba(0, 0, 0, 0.5)); */
@@ -622,6 +623,7 @@ nav .navbar-nav .nav-link:hover {
 
 .about-us .about-us-flex .info-div .icon-div img {
   width: 4.5rem;
+  
 }
 
 .about-us .about-us-flex .information .title {
